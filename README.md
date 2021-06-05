@@ -37,7 +37,8 @@ Open Lab
 Worked with Git repos to create a CIT minor portfolio
 
 
-[Link](url) and ![Image](src)
+[Link](url) and ![Image](src![quino-al-JFeOy62yjXk-unsplash](https://user-images.githubusercontent.com/84106455/120876081-9c523700-c563-11eb-8b07-ffb063e84a1a.jpg)
+)
 
 
 
